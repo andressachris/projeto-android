@@ -54,14 +54,14 @@ header>p {
     max-width: 600px;
     padding: 0px 10px 0px 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.396);
 }
 
 nav {
     background-color: var(--cor3);
     font-size: 15px;
-    padding: 5 0px 10px 10px 20px;
+    padding: 10px 10px 10px 20px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
 }
 
